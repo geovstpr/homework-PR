@@ -1,0 +1,17 @@
+{
+  "name": "homework-pr",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "",
+    "test:headless": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.44.1"
+  }
+}
