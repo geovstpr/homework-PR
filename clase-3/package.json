@@ -4,7 +4,7 @@
   "main": "test.js",
   "scripts": {
     "start": "node index.js",
-    "test": "",
+    "test": "node scrapper.js",
     "test:headless": ""
   },
   "keywords": [],
